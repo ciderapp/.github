@@ -6,5 +6,5 @@ Starting off as **[Apple Music Electron](https://github.com/ciderapp/Apple-Music
 
 ### Links
 + [Discord](https://discord.gg/applemusic)
-+ [Twitter](https://twitter.com/gitcider)
++ [Twitter](https://twitter.com/CollectiveCider)
 + [Open Collective](https://opencollective.com/ciderapp)
